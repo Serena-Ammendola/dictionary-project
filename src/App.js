@@ -22,7 +22,7 @@ export default function App() {
           Serena Ammendola
         </a>
         {"  "}
-        and is
+        and is open sourced
         <a
           href="https://github.com/Serena-Ammendola/dictionary-project"
           target="_blank"
