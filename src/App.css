@@ -1,12 +1,30 @@
+body {
+  background: #06C2C2;
+
+}
+
+.App {
+  margin: 0 auto;
+  width: 960px;
+
+}
+
 .App h1 {
+  color: white;
   text-align: center;
-  font-family: 'Courier New', Courier, monospace;
+  font-size: 50px;
   margin: 40px auto;
+  font-family: 'Courier New', Courier, monospace;
 }
 
 .App footer {
-  font-size: 13px;
+  font-size: 15px;
   text-align: center;
   margin-top: 20px;
 
+
+}
+
+.App a {
+  color: white;
 }

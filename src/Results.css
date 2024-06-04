@@ -1,0 +1,9 @@
+.Results .word {
+    font-size: 40px;
+    font-weight: bold;
+    line-height: 1.5;
+}
+
+.Results .phonetic {
+    font-size: 20px;
+}
